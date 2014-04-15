@@ -1,0 +1,14 @@
+LIT=5
+CLOSURE_EXP=7
+T__3=1
+CONCAT_EXP=9
+T__2=2
+T__1=3
+T__0=4
+WS=6
+UNION_EXP=8
+LIST=10
+'+'=4
+'*'=3
+')'=2
+'('=1
