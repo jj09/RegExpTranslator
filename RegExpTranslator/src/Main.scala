@@ -5,7 +5,7 @@ import org.antlr.runtime.RecognitionException
 import org.antlr.runtime.TokenStream
 import org.antlr.runtime.tree.CommonTree;
 
-object Assignment2 {
+object Main {
 
   def main(args: Array[String]): Unit = {    
     val regEx1: String = "(0+01)*"
